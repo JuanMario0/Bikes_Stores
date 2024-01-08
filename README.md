@@ -1,6 +1,6 @@
-<h1 align="center"> Analisis: Ventas tienda de bicicletas </h1>
+<h1 align="center"> Analísis: Ventas tienda de bicicletas </h1>
 
-## 💻: Consulta SQL Server Microsfot
+## 💻: Consulta SQL Server Microsoft
 - `Funcionalidad `: LLamar a la base de datos para obtener las columnas con las que vamos a trabajar que son las siguientes: order_id,  Column1	city,	state	order_date,	Total_unidades,	Ganancia,	product_name,	category_name	brand_name,	store_name,	Ventas_rep.
 - Estas fueron consultadas a través de joins las cuales nos ayudan a unir columnas con diferentes tablas, al igula que otras funciones que nos ayudan a darle más estructura a nuestros datos, como por ejemplo "CONCAT", "GROUP BY".
 - 
@@ -22,4 +22,4 @@ se necesitan más opciones para poder darle un formato más presentable, incluso
 ![Dashboard_Byckles](https://github.com/JuanMario0/Bikes_Stores/assets/105962476/36b8ac5c-b157-4cc1-a6e4-3fe176fb8425)
 
 
-# :whale: Gracias por ver mi proyecto espero te haya ayudado a entender como trabaja un analisista de datos, este proyecto fue con ayuda de Guru data, el cual recomiendo mucho para seguir aprendiendo.
+# :whale: Gracias por ver mi proyecto espero te haya ayudado a entender como trabaja un analista de datos, este proyecto fue con ayuda de Guru data, el cual recomiendo mucho para seguir aprendiendo.
