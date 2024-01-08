@@ -1,4 +1,4 @@
-<h1 align="center"> Analisis: Ventas de tienda de bicicletas </h1>
+<h1 align="center"> Analisis: Ventas tienda de bicicletas </h1>
 
 ## 💻: Consulta SQL Server Microsfot
 - `Funcionalidad `: LLamar a la base de datos para obtener las columnas con las que vamos a trabajar que son las siguientes: order_id,  Column1	city,	state	order_date,	Total_unidades,	Ganancia,	product_name,	category_name	brand_name,	store_name,	Ventas_rep.
